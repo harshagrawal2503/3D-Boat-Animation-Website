@@ -4,7 +4,7 @@
 
 Tools Used:🔨🔨🔨
 
-Html
+1. Html.
 WindiCss
 Typescript
 Framer Motion
