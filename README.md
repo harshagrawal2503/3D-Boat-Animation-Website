@@ -11,5 +11,7 @@ Framer Motion
 React.js
 Node.js
 
+Deployed Link : https://3dboatbyharsh.netlify.app
+
 
 
